@@ -13,7 +13,7 @@ A set of programming practice problems of programming concepts such as output, o
 Variables are declared and defined in order to hold the name and student number. A formatted output of the student profile is then displayed using cout statements.
 
 
-![Q01 Output](./cpp-practical-00/q1)
+![Q01 Output](./cpp-practical-00/images/q1.png)
 
 ---
 
